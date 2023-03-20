@@ -1,5 +1,5 @@
 {
-  "type": "module",
+  "type": "commonjs",
   "author": "kun",
   "main": "dist/index.js",
   "scripts": {
