@@ -3,7 +3,7 @@
 
 
 sse nginx需要配置
-
+```
 server {
     listen       443 ssl;
     server_name  chat.***.com;
@@ -33,3 +33,4 @@ server {
         proxy_pass http://127.0.0.1:3000;
     }
 }
+```
